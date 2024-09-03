@@ -35,3 +35,4 @@ mtr www.pchome.com.tw
 ```
 - 範例圖: 到 pchome 中間經過了 8 個 Routers
 ![[tracer.png]]
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "網路紮根概念/NAT 原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "網路紮根概念/NAT 原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "網路紮根概念/NAT 原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "網路紮根概念/NAT 原理.md"
               }
             }
           }
@@ -157,14 +157,20 @@
   },
   "active": "ede156b220daadd9",
   "lastOpenFiles": [
+    "網路紮根概念/IPv4, IPv6.md",
+    "網路紮根概念/NAT 原理.md",
+    "網路紮根概念/MAC, IP, Subnet Mask 與 Gateway.md",
     "網路紮根概念/網路七層與 TCPIP.md",
-    "Tags",
     "網路紮根概念/Hub, Switch, Ruter.md",
+    "網路紮根概念/網路紮根概念.md",
+    "Pictures/IP位址等級.png",
+    "Pictures/IP位址圖示.png",
+    "Pictures/IP位址的結構.png",
+    "Pictures/IPv4位址表示法.png",
+    "README.md",
+    "Tags",
     "Vault.md",
     "Pictures/tracer.png",
-    "README.md",
-    "網路紮根概念/網路紮根概念.md",
-    "網路紮根概念/MAC, IP, Subnet Mask 與 Gateway.md",
     "Pictures/hub_switch_router.jpg",
     "Pictures/Pictures.md",
     "Pictures/TCPIP.png",
