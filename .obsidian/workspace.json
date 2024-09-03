@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "9cf8fbfaa8898d95",
+    "type": "split",
+    "children": [
+      {
+        "id": "e217f4df6381fd16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede156b220daadd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dbcf4b4f7e6d95d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f5bccf6080a3502",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca1f745a28c7880",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "9b9a57d5fd5133c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7baca8a9c05982f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "00546bd3706a4550",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57f6935181898ef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a2b66d8f79d0555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24d65fa7e9659d41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "312845e459e82747",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48ea4a88c4cad79b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "171c2361b1e679ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ede156b220daadd9",
+  "lastOpenFiles": [
+    "網路紮根概念/網路七層與 TCPIP.md",
+    "Tags",
+    "網路紮根概念/Hub, Switch, Ruter.md",
+    "Vault.md",
+    "Pictures/tracer.png",
+    "README.md",
+    "網路紮根概念/網路紮根概念.md",
+    "網路紮根概念/MAC, IP, Subnet Mask 與 Gateway.md",
+    "Pictures/hub_switch_router.jpg",
+    "Pictures/Pictures.md",
+    "Pictures/TCPIP.png",
+    "Pictures/網路七層.png",
+    "Pictures/TCPIP.png",
+    "Pictures",
+    "Pictures/網路七層.png",
+    "網路紮根概念"
+  ]
+}
